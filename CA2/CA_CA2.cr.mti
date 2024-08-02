@@ -1,0 +1,95 @@
+{D:/ELearn/term 4/CA/CA/CA2/InstMem.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA2/InstMem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstMem
+
+Top level modules:
+	InstMem
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA2/RegFile.v} {1 {vlog -work work -stats=none {D:\ELearn\term 4\CA\CA\CA2\RegFile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA2/CU.v} {1 {vlog -work work -stats=none {D:\ELearn\term 4\CA\CA\CA2\CU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CU
+
+Top level modules:
+	CU
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA2/Adder.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA2/Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA2/SE.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA2/SE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SE
+
+Top level modules:
+	SE
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA2/MIPS.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA2/MIPS.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MIPS
+
+Top level modules:
+	MIPS
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA2/SHL2.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA2/SHL2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SHL2
+
+Top level modules:
+	SHL2
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA2/SignExt.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA2/SignExt.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA2/DP.v} {1 {vlog -work work -stats=none {D:\ELearn\term 4\CA\CA\CA2\DP.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DP
+
+Top level modules:
+	DP
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA2/PCR.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA2/PCR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PCR
+
+Top level modules:
+	PCR
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA2/MIPS_TB.v} {1 {vlog -work work -stats=none {D:\ELearn\term 4\CA\CA\CA2\MIPS_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MIPS_TB
+
+Top level modules:
+	MIPS_TB
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA2/DataMem.v} {1 {vlog -work work -stats=none {D:\ELearn\term 4\CA\CA\CA2\DataMem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataMem
+
+Top level modules:
+	DataMem
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA2/ALU.v} {1 {vlog -work work -stats=none {D:\ELearn\term 4\CA\CA\CA2\ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA2/MUX.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA2/MUX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}}
