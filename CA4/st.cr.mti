@@ -1,0 +1,113 @@
+C:/Users/armita/Documents/CA3/DP.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/DP.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DP
+
+Top level modules:
+	DP
+
+} {} {}} C:/Users/armita/Documents/CA3/PCR.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/PCR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PCR
+
+Top level modules:
+	PCR
+
+} {} {}} C:/Users/armita/Documents/CA3/FwdU.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/FwdU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FwdU
+
+Top level modules:
+	FwdU
+
+} {} {}} C:/Users/armita/Documents/CA3/MUX4.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/MUX4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX4
+
+Top level modules:
+	MUX4
+
+} {} {}} C:/Users/armita/Documents/CA3/MidReg.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/MidReg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MidReg
+
+Top level modules:
+	MidReg
+
+} {} {}} C:/Users/armita/Documents/CA3/DataMem.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/DataMem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataMem
+
+Top level modules:
+	DataMem
+
+} {} {}} C:/Users/armita/Documents/CA3/ALU.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/armita/Documents/CA3/MUX.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/MUX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} C:/Users/armita/Documents/CA3/HzdU.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/HzdU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HzdU
+
+Top level modules:
+	HzdU
+
+} {} {}} C:/Users/armita/Documents/CA3/InstMem.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/InstMem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstMem
+
+Top level modules:
+	InstMem
+
+} {} {}} C:/Users/armita/Documents/CA3/RegFile.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/RegFile.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} C:/Users/armita/Documents/CA3/SE.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/SE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SE
+
+Top level modules:
+	SE
+
+} {} {}} C:/Users/armita/Documents/CA3/Adder.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} C:/Users/armita/Documents/CA3/CU.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/CU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CU
+
+Top level modules:
+	CU
+
+} {} {}} C:/Users/armita/Documents/CA3/SHL2.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/SHL2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SHL2
+
+Top level modules:
+	SHL2
+
+} {} {}} C:/Users/armita/Documents/CA3/EQL.v {1 {vlog -work work -stats=none C:/Users/armita/Documents/CA3/EQL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EQL
+
+Top level modules:
+	EQL
+
+} {} {}}
