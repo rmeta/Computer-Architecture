@@ -1,0 +1,298 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vcmp1
+Z0 !s110 1619291371
+!i10b 1
+!s100 cl6aaA^2FcHL?JNnJIRQ=1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUQ6g?CDh@P4E@H0GSR@0?1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/ELearn/term 4/CA/CA/CA1
+w1619123656
+8D:/ELearn/term 4/CA/CA/CA1/cmp1.v
+FD:/ELearn/term 4/CA/CA/CA1/cmp1.v
+!i122 91
+L0 1 12
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1619291371.000000
+!s107 D:/ELearn/term 4/CA/CA/CA1/cmp1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ELearn/term 4/CA/CA/CA1/cmp1.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vcmp1_TB
+R0
+!i10b 1
+!s100 37:[hCf;mL3VK`jBhcgUe1
+R1
+IE<Ek9Nmg2S3m]lD<Q_TPK2
+R2
+R3
+w1619123804
+8D:/ELearn/term 4/CA/CA/CA1/cmp1_TB.v
+FD:/ELearn/term 4/CA/CA/CA1/cmp1_TB.v
+!i122 92
+L0 2 14
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/ELearn/term 4/CA/CA/CA1/cmp1_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ELearn/term 4/CA/CA/CA1/cmp1_TB.v|
+!i113 1
+R6
+R7
+ncmp1_@t@b
+vCPA
+R0
+!i10b 1
+!s100 `HRJ20ESi:>AYb?e7lgk31
+R1
+I@9^V4g1`kF7]CM2lWdfJ51
+R2
+R3
+w1619282950
+8D:/ELearn/term 4/CA/CA/CA1/CPA.v
+FD:/ELearn/term 4/CA/CA/CA1/CPA.v
+!i122 93
+L0 1 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/ELearn/term 4/CA/CA/CA1/CPA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ELearn/term 4/CA/CA/CA1/CPA.v|
+!i113 1
+R6
+R7
+n@c@p@a
+vCPA_TB
+R0
+!i10b 1
+!s100 X<Vf_CL_h5a5le9WZa7zA1
+R1
+Ic:S]k:?c6cC<LPlbnTO:]3
+R2
+R3
+w1619124663
+8D:/ELearn/term 4/CA/CA/CA1/CPA_TB.v
+FD:/ELearn/term 4/CA/CA/CA1/CPA_TB.v
+!i122 94
+L0 2 22
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/ELearn/term 4/CA/CA/CA1/CPA_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ELearn/term 4/CA/CA/CA1/CPA_TB.v|
+!i113 1
+R6
+R7
+n@c@p@a_@t@b
+vDivCU
+!s110 1619291388
+!i10b 1
+!s100 l7]VDgeenIaXCUCIRDcL<3
+R1
+IlYUNFfKC^TY_D:W^S9N>H3
+R2
+R3
+w1619291384
+8D:/ELearn/term 4/CA/CA/CA1/DivCU.v
+FD:/ELearn/term 4/CA/CA/CA1/DivCU.v
+!i122 100
+L0 1 72
+R4
+r1
+!s85 0
+31
+!s108 1619291387.000000
+!s107 D:/ELearn/term 4/CA/CA/CA1/DivCU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ELearn/term 4/CA/CA/CA1/DivCU.v|
+!i113 1
+R6
+R7
+n@div@c@u
+vDivDP
+Z8 !s110 1619291372
+!i10b 1
+!s100 I7a;S8:n8XkOPfYEkgR7E3
+R1
+IVQGi4=O9R8o^hlMCIaL3Z0
+R2
+R3
+w1619287012
+8D:/ELearn/term 4/CA/CA/CA1/DivDP.v
+FD:/ELearn/term 4/CA/CA/CA1/DivDP.v
+!i122 97
+L0 1 27
+R4
+r1
+!s85 0
+31
+Z9 !s108 1619291372.000000
+!s107 D:/ELearn/term 4/CA/CA/CA1/DivDP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ELearn/term 4/CA/CA/CA1/DivDP.v|
+!i113 1
+R6
+R7
+n@div@d@p
+vDivider
+R8
+!i10b 1
+!s100 <730NVPn3]eZ00F8gL_hK0
+R1
+Ie^eC7<TS1[ID3[3l]MG<m2
+R2
+R3
+w1619288281
+8D:/ELearn/term 4/CA/CA/CA1/Divider.v
+FD:/ELearn/term 4/CA/CA/CA1/Divider.v
+!i122 98
+L0 1 15
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/ELearn/term 4/CA/CA/CA1/Divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ELearn/term 4/CA/CA/CA1/Divider.v|
+!i113 1
+R6
+R7
+n@divider
+vDivider_TB
+!s110 1619292126
+!i10b 1
+!s100 MB_=EP6?X:fHDX4<md]2^3
+R1
+IfJRS3c6X^j4Cd3L7T<ZZz2
+R2
+R3
+w1619292119
+8D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v
+FD:/ELearn/term 4/CA/CA/CA1/Divider_TB.v
+!i122 102
+L0 2 40
+R4
+r1
+!s85 0
+31
+!s108 1619292126.000000
+!s107 D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v|
+!i113 1
+R6
+R7
+n@divider_@t@b
+vLSR
+R0
+!i10b 1
+!s100 04CI6:=a0aI3P`TFZ@FiY3
+R1
+IEj?6_^iYdPgANWLRX78d<1
+R2
+R3
+w1619290460
+8D:/ELearn/term 4/CA/CA/CA1/LSR.v
+FD:/ELearn/term 4/CA/CA/CA1/LSR.v
+!i122 89
+L0 1 20
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/ELearn/term 4/CA/CA/CA1/LSR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ELearn/term 4/CA/CA/CA1/LSR.v|
+!i113 1
+R6
+R7
+n@l@s@r
+vLSR_TB
+R0
+!i10b 1
+!s100 ZT7KKfzoo<g:SQYbESCaC1
+R1
+IB5G2FTe5<]ghJb0ZBFf8g0
+R2
+R3
+w1619123367
+8D:/ELearn/term 4/CA/CA/CA1/LSR_TB.v
+FD:/ELearn/term 4/CA/CA/CA1/LSR_TB.v
+!i122 90
+L0 2 20
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/ELearn/term 4/CA/CA/CA1/LSR_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ELearn/term 4/CA/CA/CA1/LSR_TB.v|
+!i113 1
+R6
+R7
+n@l@s@r_@t@b
+vMUX
+R8
+!i10b 1
+!s100 JE:Mkkd6Wz^^h_6lNYo^V2
+R1
+I<3X=gJ5ak`DId7QG<NcJn0
+R2
+R3
+w1619282843
+8D:/ELearn/term 4/CA/CA/CA1/MUX.v
+FD:/ELearn/term 4/CA/CA/CA1/MUX.v
+!i122 95
+L0 1 8
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/ELearn/term 4/CA/CA/CA1/MUX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ELearn/term 4/CA/CA/CA1/MUX.v|
+!i113 1
+R6
+R7
+n@m@u@x
+vMUX_TB
+R8
+!i10b 1
+!s100 ToN^=^z`Khz01WL6Cz1=W1
+R1
+IbG9GLIUakB7nSIJJS0zXK3
+R2
+R3
+w1619125072
+8D:/ELearn/term 4/CA/CA/CA1/MUX_TB.v
+FD:/ELearn/term 4/CA/CA/CA1/MUX_TB.v
+!i122 96
+L0 2 16
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/ELearn/term 4/CA/CA/CA1/MUX_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ELearn/term 4/CA/CA/CA1/MUX_TB.v|
+!i113 1
+R6
+R7
+n@m@u@x_@t@b

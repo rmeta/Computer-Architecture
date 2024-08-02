@@ -1,0 +1,9 @@
+module DivDP(Ready,R,Q,Dividend,Divisor,clk,rst);
+	parameter N = 6;
+	output reg Ready;
+	output reg [N-1:0]R,Q;
+	input [(2*N)-1:0]Dividend;
+	input [N-1:0]Divisor;
+	input clk,rst;
+
+	

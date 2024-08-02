@@ -1,0 +1,359 @@
+# Compile of LSR.v was successful.
+# Compile of LSR_TB.v was successful.
+# Compile of cmp1.v was successful.
+# Compile of cmp1_TB.v was successful.
+# Compile of CPA.v was successful.
+# Compile of CPA_TB.v was successful.
+# Compile of MUX.v was successful.
+# Compile of MUX_TB.v was successful.
+# Compile of DivDP.v was successful.
+# Compile of DivCU.v failed with 1 errors.
+# 10 compiles, 1 failed with 1 error.
+# Compile of DivCU.v failed with 1 errors.
+# Compile of DivCU.v failed with 1 errors.
+# Compile of DivCU.v failed with 1 errors.
+# Compile of DivCU.v failed with 1 errors.
+# Compile of DivCU.v failed with 9 errors.
+# Compile of DivCU.v failed with 1 errors.
+# Compile of DivCU.v was successful.
+# Compile of LSR.v was successful.
+# Compile of LSR_TB.v was successful.
+# Compile of cmp1.v was successful.
+# Compile of cmp1_TB.v was successful.
+# Compile of CPA.v was successful.
+# Compile of CPA_TB.v was successful.
+# Compile of MUX.v was successful.
+# Compile of MUX_TB.v was successful.
+# Compile of DivDP.v was successful.
+# Compile of DivCU.v was successful.
+# Compile of Divider.v was successful.
+# 11 compiles, 0 failed with no errors.
+# Compile of Divider_TB.v failed with 1 errors.
+# Compile of Divider_TB.v was successful.
+vsim -gui work.Divider_TB
+# vsim -gui work.Divider_TB 
+# Start time: 22:40:23 on Apr 24,2021
+# Loading work.Divider_TB
+# Loading work.Divider
+# Loading work.DivDP
+# Loading work.MUX
+# Loading work.LSR
+# Loading work.cmp1
+# Loading work.CPA
+# Loading work.DivCU
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'R'.
+#    Time: 0 ps  Iteration: 0  Instance: /Divider_TB/Div/DP File: D:/ELearn/term 4/CA/CA/CA1/Divider.v Line: 12
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Q'.
+#    Time: 0 ps  Iteration: 0  Instance: /Divider_TB/Div/DP File: D:/ELearn/term 4/CA/CA/CA1/Divider.v Line: 12
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Ready'.
+#    Time: 0 ps  Iteration: 0  Instance: /Divider_TB/Div/CU File: D:/ELearn/term 4/CA/CA/CA1/Divider.v Line: 13
+# Error loading design
+# End time: 22:40:23 on Apr 24,2021, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 14
+# Compile of Divider_TB.v was successful.
+vsim -gui work.Divider_TB
+# vsim -gui work.Divider_TB 
+# Start time: 22:40:59 on Apr 24,2021
+# Loading work.Divider_TB
+# Loading work.Divider
+# Loading work.DivDP
+# Loading work.MUX
+# Loading work.LSR
+# Loading work.cmp1
+# Loading work.CPA
+# Loading work.DivCU
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Ready'.
+#    Time: 0 ps  Iteration: 0  Instance: /Divider_TB/Div File: D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v Line: 10
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'R'.
+#    Time: 0 ps  Iteration: 0  Instance: /Divider_TB/Div File: D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v Line: 10
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Q'.
+#    Time: 0 ps  Iteration: 0  Instance: /Divider_TB/Div File: D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v Line: 10
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'R'.
+#    Time: 0 ps  Iteration: 0  Instance: /Divider_TB/Div/DP File: D:/ELearn/term 4/CA/CA/CA1/Divider.v Line: 12
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Q'.
+#    Time: 0 ps  Iteration: 0  Instance: /Divider_TB/Div/DP File: D:/ELearn/term 4/CA/CA/CA1/Divider.v Line: 12
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Ready'.
+#    Time: 0 ps  Iteration: 0  Instance: /Divider_TB/Div/CU File: D:/ELearn/term 4/CA/CA/CA1/Divider.v Line: 13
+# Error loading design
+# End time: 22:40:59 on Apr 24,2021, Elapsed time: 0:00:00
+# Errors: 6, Warnings: 2
+# Compile of LSR.v was successful.
+# Compile of LSR_TB.v was successful.
+# Compile of cmp1.v was successful.
+# Compile of cmp1_TB.v was successful.
+# Compile of CPA.v was successful.
+# Compile of CPA_TB.v was successful.
+# Compile of MUX.v was successful.
+# Compile of MUX_TB.v was successful.
+# Compile of DivDP.v was successful.
+# Compile of DivCU.v was successful.
+# Compile of Divider.v was successful.
+# Compile of Divider_TB.v was successful.
+# 12 compiles, 0 failed with no errors.
+vsim -gui work.Divider_TB
+# vsim -gui work.Divider_TB 
+# Start time: 22:47:09 on Apr 24,2021
+# Loading work.Divider_TB
+# Loading work.Divider
+# Loading work.DivDP
+# Loading work.MUX
+# Loading work.LSR
+# Loading work.cmp1
+# Loading work.CPA
+# Loading work.DivCU
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'R'.
+#    Time: 0 ps  Iteration: 0  Instance: /Divider_TB/Div/DP File: D:/ELearn/term 4/CA/CA/CA1/Divider.v Line: 12
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Q'.
+#    Time: 0 ps  Iteration: 0  Instance: /Divider_TB/Div/DP File: D:/ELearn/term 4/CA/CA/CA1/Divider.v Line: 12
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Ready'.
+#    Time: 0 ps  Iteration: 0  Instance: /Divider_TB/Div/CU File: D:/ELearn/term 4/CA/CA/CA1/Divider.v Line: 13
+# Error loading design
+# End time: 22:47:09 on Apr 24,2021, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 2
+# Compile of Divider.v was successful.
+vsim -gui work.Divider_TB
+# vsim -gui work.Divider_TB 
+# Start time: 22:48:12 on Apr 24,2021
+# Loading work.Divider_TB
+# Loading work.Divider
+# Loading work.DivDP
+# Loading work.MUX
+# Loading work.LSR
+# Loading work.cmp1
+# Loading work.CPA
+# Loading work.DivCU
+add wave -position insertpoint  \
+sim:/Divider_TB/clk \
+sim:/Divider_TB/Dividend \
+sim:/Divider_TB/Divisor \
+sim:/Divider_TB/Q \
+sim:/Divider_TB/R \
+sim:/Divider_TB/Ready \
+sim:/Divider_TB/rst \
+sim:/Divider_TB/Start
+add wave -position end  sim:/Divider_TB/Div/CU/ns
+add wave -position end  sim:/Divider_TB/Div/CU/ps
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(24)
+#    Time: 1070 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 24
+# Compile of DivCU.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.DivCU
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(24)
+#    Time: 1070 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 24
+add wave -position end  sim:/Divider_TB/Div/CU/Shiften
+add wave -position end  sim:/Divider_TB/Div/CU/Signslc
+restart -f
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(24)
+#    Time: 1070 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 24
+add wave -position end  sim:/Divider_TB/Div/DP/ldBen
+add wave -position end  sim:/Divider_TB/Div/DP/A
+add wave -position end  sim:/Divider_TB/Div/DP/Adden
+add wave -position end  sim:/Divider_TB/Div/DP/ASign
+add wave -position end  sim:/Divider_TB/Div/DP/B
+add wave -position end  sim:/Divider_TB/Div/DP/C
+add wave -position end  sim:/Divider_TB/Div/DP/clk
+add wave -position end  sim:/Divider_TB/Div/DP/Cp
+add wave -position end  sim:/Divider_TB/Div/DP/Dividend
+add wave -position end  sim:/Divider_TB/Div/DP/Divisor
+add wave -position end  sim:/Divider_TB/Div/DP/ldAen
+add wave -position end  sim:/Divider_TB/Div/DP/ldAslc
+add wave -position end  sim:/Divider_TB/Div/DP/ldBen
+add wave -position end  sim:/Divider_TB/Div/DP/ldBslc
+add wave -position end  sim:/Divider_TB/Div/DP/ldCen
+add wave -position end  sim:/Divider_TB/Div/DP/N
+add wave -position end  sim:/Divider_TB/Div/DP/Q
+add wave -position end  sim:/Divider_TB/Div/DP/R
+add wave -position end  sim:/Divider_TB/Div/DP/R1
+add wave -position end  sim:/Divider_TB/Div/DP/R2
+add wave -position end  sim:/Divider_TB/Div/DP/Res
+add wave -position end  sim:/Divider_TB/Div/DP/rst
+add wave -position end  sim:/Divider_TB/Div/DP/Shiften
+add wave -position end  sim:/Divider_TB/Div/DP/Signslc
+add wave -position end  sim:/Divider_TB/Div/DP/Sum
+add wave -position end  sim:/Divider_TB/Div/CU/Add
+add wave -position end  sim:/Divider_TB/Div/CU/Adden
+add wave -position end  sim:/Divider_TB/Div/CU/ASign
+add wave -position end  sim:/Divider_TB/Div/CU/Begin
+add wave -position end  sim:/Divider_TB/Div/CU/Check1
+add wave -position end  sim:/Divider_TB/Div/CU/Check2
+add wave -position end  sim:/Divider_TB/Div/CU/clk
+add wave -position end  sim:/Divider_TB/Div/CU/Cnten
+add wave -position end  sim:/Divider_TB/Div/CU/Cntout
+add wave -position end  sim:/Divider_TB/Div/CU/Counter
+add wave -position end  sim:/Divider_TB/Div/CU/Finish
+add wave -position end  sim:/Divider_TB/Div/CU/Init0
+add wave -position end  sim:/Divider_TB/Div/CU/Init1
+add wave -position end  sim:/Divider_TB/Div/CU/ldAen
+add wave -position end  sim:/Divider_TB/Div/CU/ldAslc
+add wave -position end  sim:/Divider_TB/Div/CU/ldBen
+add wave -position end  sim:/Divider_TB/Div/CU/ldBslc
+add wave -position end  sim:/Divider_TB/Div/CU/ldCen
+add wave -position end  sim:/Divider_TB/Div/CU/Load1
+add wave -position end  sim:/Divider_TB/Div/CU/Load2
+add wave -position end  sim:/Divider_TB/Div/CU/N
+add wave -position end  sim:/Divider_TB/Div/CU/ns
+add wave -position end  sim:/Divider_TB/Div/CU/ps
+add wave -position end  sim:/Divider_TB/Div/CU/Ready
+add wave -position end  sim:/Divider_TB/Div/CU/Res
+add wave -position end  sim:/Divider_TB/Div/CU/rst
+add wave -position end  sim:/Divider_TB/Div/CU/Shiften
+add wave -position end  sim:/Divider_TB/Div/CU/SHL
+add wave -position end  sim:/Divider_TB/Div/CU/Signslc
+add wave -position end  sim:/Divider_TB/Div/CU/Start
+add wave -position end  sim:/Divider_TB/Div/CU/Sub
+add wave -position end  sim:/Divider_TB/clk
+add wave -position end  sim:/Divider_TB/Dividend
+add wave -position end  sim:/Divider_TB/Divisor
+add wave -position end  sim:/Divider_TB/Q
+add wave -position end  sim:/Divider_TB/R
+add wave -position end  sim:/Divider_TB/Ready
+add wave -position end  sim:/Divider_TB/rst
+add wave -position end  sim:/Divider_TB/Start
+restart -f
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(24)
+#    Time: 1070 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 24
+# Compile of DivCU.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.DivCU
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(24)
+#    Time: 1070 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 24
+# Compile of DivCU.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.DivCU
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(24)
+#    Time: 1070 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 24
+# Compile of DivCU.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.DivCU
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(24)
+#    Time: 1070 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 24
+restart -f
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(24)
+#    Time: 1070 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 24
+# Compile of DivCU.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.DivCU
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(24)
+#    Time: 1070 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 24
+# Compile of LSR.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.LSR
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(24)
+#    Time: 1070 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 24
+# Compile of LSR.v was successful.
+# Compile of LSR_TB.v was successful.
+# Compile of cmp1.v was successful.
+# Compile of cmp1_TB.v was successful.
+# Compile of CPA.v was successful.
+# Compile of CPA_TB.v was successful.
+# Compile of MUX.v was successful.
+# Compile of MUX_TB.v was successful.
+# Compile of DivDP.v was successful.
+# Compile of DivCU.v was successful.
+# Compile of Divider.v was successful.
+# Compile of Divider_TB.v was successful.
+# 12 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.Divider_TB
+# Loading work.Divider
+# Loading work.DivDP
+# Loading work.MUX
+# Loading work.LSR
+# Loading work.cmp1
+# Loading work.CPA
+# Loading work.DivCU
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(24)
+#    Time: 1070 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 24
+# Compile of Divider_TB.v failed with 1 errors.
+# Compile of Divider_TB.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.Divider_TB
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(33)
+#    Time: 4710 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 33
+add wave -position end  sim:/Divider_TB/clk
+add wave -position end  sim:/Divider_TB/Dividend
+add wave -position end  sim:/Divider_TB/Divisor
+add wave -position end  sim:/Divider_TB/Q
+add wave -position end  sim:/Divider_TB/R
+add wave -position end  sim:/Divider_TB/Ready
+add wave -position end  sim:/Divider_TB/rst
+add wave -position end  sim:/Divider_TB/Start
+restart -f
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(33)
+#    Time: 4710 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 33
+# Compile of LSR.v was successful.
+# Compile of LSR_TB.v was successful.
+# Compile of cmp1.v was successful.
+# Compile of cmp1_TB.v was successful.
+# Compile of CPA.v was successful.
+# Compile of CPA_TB.v was successful.
+# Compile of MUX.v was successful.
+# Compile of MUX_TB.v was successful.
+# Compile of DivDP.v was successful.
+# Compile of DivCU.v failed with 1 errors.
+# Compile of Divider.v was successful.
+# Compile of Divider_TB.v was successful.
+# 12 compiles, 1 failed with 1 error.
+# Compile of DivCU.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.Divider_TB
+# Loading work.Divider
+# Loading work.DivDP
+# Loading work.MUX
+# Loading work.LSR
+# Loading work.cmp1
+# Loading work.CPA
+# Loading work.DivCU
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(33)
+#    Time: 4710 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 33
+# Compile of Divider_TB.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.Divider_TB
+run -all
+# ** Note: $stop    : D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v(34)
+#    Time: 3110 ps  Iteration: 0  Instance: /Divider_TB
+# Break in Module Divider_TB at D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v line 34
+# Compile of Divider_TB.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.Divider_TB
+# End time: 23:52:16 on Apr 24,2021, Elapsed time: 1:04:04
+# Errors: 0, Warnings: 1

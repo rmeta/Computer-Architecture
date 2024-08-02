@@ -1,0 +1,3 @@
+module cmp1(Wout,Ain,ctrl);
+	parameter N = 8;
+	output reg 

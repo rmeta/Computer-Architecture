@@ -1,0 +1,17 @@
+module LSR(PO,PI,SerIn,Shift,Load,clk,rst);
+	parameter N = 8;
+	output reg [N-1:0]PO;
+	input [N-1:0]PI;
+	input SerIn,Shift,Load,clk,rst;
+
+	always @(posedge clk, posedge rst)
+	begin
+		if(rst)
+			PO <= 0;
+		else if(Load)
+			PO <= PI;
+		else if(Shift)
+			PO <= {PO[N-2:1],SerIn};
+		else
+			PO <= PO;
+endmodule

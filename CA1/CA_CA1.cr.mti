@@ -1,0 +1,85 @@
+{D:/ELearn/term 4/CA/CA/CA1/CPA.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA1/CPA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CPA
+
+Top level modules:
+	CPA
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA1/LSR_TB.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA1/LSR_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LSR_TB
+
+Top level modules:
+	LSR_TB
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA1/cmp1_TB.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA1/cmp1_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cmp1_TB
+
+Top level modules:
+	cmp1_TB
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA1/MUX_TB.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA1/MUX_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX_TB
+
+Top level modules:
+	MUX_TB
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA1/LSR.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA1/LSR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LSR
+
+Top level modules:
+	LSR
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA1/cmp1.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA1/cmp1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cmp1
+
+Top level modules:
+	cmp1
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA1/CPA_TB.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA1/CPA_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CPA_TB
+
+Top level modules:
+	CPA_TB
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA1/DivCU.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA1/DivCU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DivCU
+
+Top level modules:
+	DivCU
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA1/Divider_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Divider_TB
+
+Top level modules:
+	Divider_TB
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA1/Divider.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA1/Divider.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Divider
+
+Top level modules:
+	Divider
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA1/DivDP.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA1/DivDP.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DivDP
+
+Top level modules:
+	DivDP
+
+} {} {}} {D:/ELearn/term 4/CA/CA/CA1/MUX.v} {1 {vlog -work work -stats=none {D:/ELearn/term 4/CA/CA/CA1/MUX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}}

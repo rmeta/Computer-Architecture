@@ -1,0 +1,17 @@
+module CPA(Sum,Cout,Ain,Bin,Cin,en,clk,rst);
+	parameter N = 8;
+	output reg [N-1:0]Sum;
+	output reg Cout;
+	input [N-1:0]Ain,Bin;
+	input Cin,en,clk,rst;
+
+	always @(posedge clk, posedge rst)
+	begin
+		if(rst)
+			{Cout,Sum} < = 0;
+		else if(en)
+			{Cout,Sum} <=  Ain + Bin + Cin;
+		else
+			{Cout,Sum} <= {Cout,Sum};
+	end
+endmodule
